@@ -1,5 +1,3 @@
-package Provided;
-
 import Provided.MineEscape;
 
 import javax.swing.JOptionPane;
